@@ -1,4 +1,4 @@
 # metodologia2019
-Alumnos:
-    - Diego Monsalves
+\nAlumnos:\n
+    - Diego Monsalves\n
      -Angel Inostroza
